@@ -8,8 +8,8 @@ These shorts represent:
 - Speed ⚡
 
 ### Contents
-- `Blue shorts.jfif` – Compressed preview format
-- `Blue shorts.png` – Full-res image for branding and visual mockups
+- `Blue gym shorts.jfif` – Compressed preview format
+- `Blue gym shorts.png` – Full-res image for branding and visual mockups
 
 ## Coming Soon
 Custom scenes, merch mockups, and more AI gear.
